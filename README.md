@@ -1,3 +1,7 @@
-# Lab_1_Demo
+# Breakfast items
 
-Hello World
+
+I had the following for breakfast:
+* Egg
+* Bread
+  * with tea
